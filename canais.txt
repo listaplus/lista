@@ -10,8 +10,6 @@
 ######## InformaÃ§Ãµes ########
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sojnWVY.png" group-title="InformaÃ§Ãµes", 
-#EXTSIZE: Big
-#EXTBG: http://i.imgur.com/hIJGpCB.png
 http://snip.li/iptvplay
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/c2Gmekh.png" group-title="InformaÃ§Ãµes", Links capturados da internet
