@@ -1,5 +1,4 @@
 #EXTM3U
-
 #PLAYLISTV: pltv-logo="http://i.imgur.com/ZqOEluE.png"
 
 #####################################################
@@ -268,7 +267,7 @@ http://mistreaming.com.br:1935/ucstvDVR/ucstvDVR/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LsyU3Jy.jpg" group-title="Regionais", Univesp TV
 rtmp://200.136.27.12/live/univesptv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RsDo21H.jpg" group-title="Regionais", Vem &amp; Ve TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RsDo21H.jpg" group-title="Regionais", Vem & Ve TV
 rtmp://srv-vvtv.sisdera.com.br/live//vvtv3
 
 
@@ -453,7 +452,7 @@ http://194.116.73.146/quartaretetv1//formusicweb/live.m3u8
 http://wse.planeta-online.tv:1935/live//channel_4/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kXARlmD.jpg" group-title="MÃºsicas", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rbase=on
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rbase=on
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zvMIuZO.png" group-title="MÃºsicas", Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
@@ -576,7 +575,7 @@ http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
 http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XLBry7T.png" group-title="Variedades", MTV
-rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&amp;stream=wt_mtv.stream live=1
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e1rxFOv.png" group-title="Variedades", Multishow
 http://107.182.231.88:1935/liverepeater/ch21-1/playlist.m3u8
@@ -608,7 +607,7 @@ rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player
 rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/caverna.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nouLF8d.jpg" group-title="Desenhos 24 horas", Digimon
-rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=digimon&amp;vw=100%&amp;vh=100%.html
+rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=100%&vh=100%.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PlrtvPV.jpg" group-title="Desenhos 24 horas", Doug
 rtmp://208.53.180.178/ctv playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/doug.html
@@ -632,7 +631,7 @@ rtmp://208.53.180.218/ctv playpath=galinha swfUrl=http://www.carolineoliveira.co
 rtmp://208.53.180.178/ctv playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VwlDfP5.jpg" group-title="Desenhos 24 horas", Naruto Shippuden
-rtmp://212.129.30.215/naruto/ playpath=naruto swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&amp;c=naruto&amp;vw=468&amp;vh=360
+rtmp://212.129.30.215/naruto/ playpath=naruto swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=naruto&vw=468&vh=360
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VFCDR4W.jpg" group-title="Desenhos 24 horas", O FantÃ¡stico Mundo de Bobby
 rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
@@ -667,7 +666,7 @@ rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YIl49dW.jpg" group-title="Desenhos 24 horas", South Park
 rtmp://208.53.180.178/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/auh4rWO.png" group-title="Desenhos 24 horas", Tom &amp; Jerry
+#EXTINF:-1 tvg-logo="http://i.imgur.com/auh4rWO.png" group-title="Desenhos 24 horas", Tom & Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/K2NznKl.jpg" group-title="Desenhos 24 horas", ThunderCats
@@ -702,7 +701,7 @@ rtmp://208.53.180.242/ctv playpath=criminal swfUrl=http://www.carolineoliveira.c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wOLEjR2.jpg" group-title="SÃ©ries 24 horas", CSI
 rtmp://208.53.180.178/ctv playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bC0gUFW.jpg" group-title="SÃ©ries 24 horas", Drake &amp; Josh
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bC0gUFW.jpg" group-title="SÃ©ries 24 horas", Drake & Josh
 rtmp://208.53.180.242/ctv playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k3cpvZv.jpg" group-title="SÃ©ries 24 horas", Eu A Patroa e as CrianÃ§as
@@ -723,7 +722,7 @@ rtmp://208.53.180.178/ctv playpath=heroes swfUrl=http://www.carolineoliveira.com
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Pe1hT8n.jpg" group-title="SÃ©ries 24 horas", iCarly
 rtmp://208.53.180.178/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5PoPOCa.jpg" group-title="SÃ©ries 24 horas", Kenan &amp; Kel
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5PoPOCa.jpg" group-title="SÃ©ries 24 horas", Kenan & Kel
 rtmp://208.53.164.194/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BdOsA3u.jpg" group-title="SÃ©ries 24 horas", Lost
@@ -930,4 +929,3 @@ http://video1.earthcam.com/fecnetwork/3186.flv/live.m3u8
 
 
 
-</body></html>
